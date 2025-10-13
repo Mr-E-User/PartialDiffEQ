@@ -1,4 +1,4 @@
-# Partial Differential Equation (Approximate Solutions) 
+# Partial Differential Equation (Approximate Solutions to the Wave Equation) 
 _Note: running this script requires SFML 2.6.1 to be linked_
 
 ## Overview
