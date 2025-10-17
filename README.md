@@ -2,7 +2,7 @@
 _Note: running this script requires SFML 2.6.1 to be linked_
 
 ## Overview
-Modify the code to set the initial conditions and then iterate through the time steps to see the evolution of the approximate solution. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school.
+Modify the code to set the initial conditions and then iterate through the time steps to see the evolution of the approximate solution. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school _and is no longer reflective of my current C++ proficiency_.
 
 ## List of Controllable Settings:
 - Position of the curve: `mouse1`/`mouse2`
